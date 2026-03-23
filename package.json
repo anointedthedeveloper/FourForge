@@ -1,0 +1,19 @@
+{
+  "name": "fourforge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "generate-icons": "node scripts/generate-icons.js"
+  },
+  "dependencies": {
+    "next": "^16.2.1",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.4"
+  }
+}

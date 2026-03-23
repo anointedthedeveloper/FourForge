@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#1a1a2e"/>
+  <rect x="60" y="60" width="392" height="392" rx="40" fill="#0f3460"/>
+  <!-- Grid dots -->
+  <circle cx="140" cy="160" r="36" fill="#16213e"/>
+  <circle cx="256" cy="160" r="36" fill="#16213e"/>
+  <circle cx="372" cy="160" r="36" fill="#16213e"/>
+  <circle cx="140" cy="256" r="36" fill="#e94560"/>
+  <circle cx="256" cy="256" r="36" fill="#e94560"/>
+  <circle cx="372" cy="256" r="36" fill="#e94560"/>
+  <circle cx="140" cy="352" r="36" fill="#f5a623"/>
+  <circle cx="256" cy="352" r="36" fill="#16213e"/>
+  <circle cx="372" cy="352" r="36" fill="#f5a623"/>
+</svg>
