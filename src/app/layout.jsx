@@ -18,6 +18,8 @@ export default function RootLayout({ children }) {
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <link rel="apple-touch-icon" href="/icons/icon-192.png" />
 
+        <meta name="google-site-verification" content="aKnYWomdVfhxFP0_AX4H1COpM7C0o7GM-9Ad7FfI-nE" />
+
         {/* Open Graph */}
         <meta property="og:title" content="FourForge – Connect Four Game" />
         <meta property="og:description" content="Challenge your friends in this modern Connect Four web app." />
